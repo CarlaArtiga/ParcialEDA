@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1663173948 source:c:\users\lenovo\documents\sexto ciclo\eda0\parciales\parcial 1\nueva carpeta\parcial1\main.cpp
+	<iostream>
+	"ListaEstudiante.h"
+	"Estudiante.h"
+	"ListaMateria.h"
+	"Materia.h"
+	<stdlib.h>
+
+1663172825 c:\users\lenovo\documents\sexto ciclo\eda0\parciales\parcial 1\nueva carpeta\parcial1\listaestudiante.h
+	"NodoE.h"
+	"Estudiante.h"
+
+1663170703 c:\users\lenovo\documents\sexto ciclo\eda0\parciales\parcial 1\nueva carpeta\parcial1\nodoe.h
+	"Estudiante.h"
+
+1663174324 c:\users\lenovo\documents\sexto ciclo\eda0\parciales\parcial 1\nueva carpeta\parcial1\estudiante.h
+	<stdlib.h>
+	<iostream>
+
+1663174080 c:\users\lenovo\documents\sexto ciclo\eda0\parciales\parcial 1\nueva carpeta\parcial1\listamateria.h
+	"Materia.h"
+	"NodoM.h"
+
+1663174201 c:\users\lenovo\documents\sexto ciclo\eda0\parciales\parcial 1\nueva carpeta\parcial1\materia.h
+
+1663174041 c:\users\lenovo\documents\sexto ciclo\eda0\parciales\parcial 1\nueva carpeta\parcial1\nodom.h
+	"Materia.h"
+
